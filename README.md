@@ -29,6 +29,7 @@ Neural Networks MLP
 
 # Libraries and Frameworks Needed
 scikit-learn <br> 
+numpy <br>
 mathplotlib <br> 
 seaborn 
 
