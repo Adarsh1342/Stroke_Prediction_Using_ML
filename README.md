@@ -25,7 +25,7 @@ KNN <br>
 Neural Networks MLP 
 
 # Libraries and Frameworks Needed
-skcit-learn <br> 
+scikit-learn <br> 
 mathplotlib <br> 
 seaborn 
 
