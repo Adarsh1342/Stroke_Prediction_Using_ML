@@ -1,5 +1,5 @@
 # ML_Project
-Deplying Machine Learning Algorithms to predict the occurance of stroke in a person.
+Deploying Machine Learning Algorithms to predict the occurance of stroke in a person.
 
 # Problem Statement
 Stroke is the second largest cause of mortality worldwide and remains an enormous health burden for individuals. Hypertension, heart illness, diabetes and dysregulation of glucose metabolism, atrial fibrillation, and lifestyle variables are some of the controllable risk factors of stroke. The objective of our project is to successfully predict a person’s likelihood of suffering a stroke based on potentially modifiable risk variables by applying machine learning methods to big data sets. This may be done by analyzing medical records using machine learning models to find patterns that are related to the risk of stroke. 
